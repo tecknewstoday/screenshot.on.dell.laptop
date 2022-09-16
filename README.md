@@ -1,6 +1,6 @@
 # Screenshot on Dell Laptop
 
-[![Screenshot on Dell Laptop](pink.png)](https://github.com/tecknewstoday/screenshot.on.dell.laptop)
+[![Screenshot on Dell Laptop](pink.png)](https://icncomputer.com/how-to-screenshot-on-dell-laptop/)
 
 Taking screenshots differs from one computer to another, but if you are in Windows, normally this action can be performed using the Print Screen key.
 
